@@ -699,7 +699,7 @@ host$ vagrant ssh
 vm$ ./bin/setup.sh
 ```
 
-The setup script will install OS packages then run `npm install`.
+The setup script will install OS packages then run `npm install`. 
 
 The Vagrant VM serves to your host machine only on 192.168.33.10, you can access
 the web interface on [http://192.168.33.10:1337](http://192.168.33.10:1337)
